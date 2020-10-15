@@ -1,8 +1,5 @@
 ## Jamil Ohayia's React Portfolio 
 
-## Preview
-![Preview](https://image.ibb.co/e5uBf0/Capture.png)
-
 
 ## How to use
 
